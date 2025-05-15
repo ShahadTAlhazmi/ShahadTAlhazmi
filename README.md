@@ -8,7 +8,7 @@
 - 💻 I’m working in **Web Development** and love building interactive and user-friendly web interfaces.
 - 📫 How to reach me:
   - Email: shahadalhazmi20@gmail.com  
-  - LinkedIn: [shahadtalhazmi](www.linkedin.com/in/shahadalhazmi)  
+  - LinkedIn: [www.linkedin.com/in/shahadtalhazmi](https://www.linkedin.com/in/shahadtalhazmi) 
   - X : [@ShahadTAlhazmi](https://x.com/ShahadTAlhazmi)
 
 - 😄 Pronouns: She/Her
